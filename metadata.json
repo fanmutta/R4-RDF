@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RDF Plant Risk Assessment Form",
+  "description": "A digital inspection form for area owners to assess housekeeping, safety, material management, and equipment conditions. Includes photo upload capabilities for non-compliant items.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
